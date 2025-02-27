@@ -20,7 +20,7 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-4">Síguenos</h3>
             <div className="flex gap-4">
               <a
-                href="https://wa.me/5493512362632?text=Hola%20GreenPlace,%20me%20gustaría%20hacer%20una%20consulta."
+                href="https://wa.me/5493512362632?text=Hola%20GrinPlace,%20me%20gustaría%20hacer%20una%20consulta."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
