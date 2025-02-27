@@ -6,7 +6,7 @@ export function Footer() {
       <div className="container py-8 md:py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">GreenPlace</h3>
+            <h3 className="text-lg font-semibold mb-4">GrinPlace</h3>
             <p className="text-sm text-muted-foreground">Tu tienda premium de productos Apple en Córdoba, Argentina.</p>
           </div>
           <div>
