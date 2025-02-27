@@ -28,7 +28,7 @@ export function Header() {
             <MobileNav />
           </Suspense>
           <Link href="/" className="text-2xl font-bold tracking-tighter text-primary">
-            GreenPlace
+            GrinPlace
           </Link>
           <div className="hidden md:flex">
             <ProductNav />
